@@ -107,10 +107,9 @@ npm start
 
 # Frontend
 cd ../frontend
-npm start
+npm star
 ```
 ## 📄 License
 © 2023 WSA. All rights reserved.
 =======
-# Homely-Hub
->>>>>>> 2b0cbcbe498ebbdadadb35b174210814ff57d4c0
+
