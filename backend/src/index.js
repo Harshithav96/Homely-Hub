@@ -22,7 +22,7 @@ app.use(express.urlencoded({ limit: "100mb", extended: true }));
 app.use(cookieParser());
 // app.use(express.json());
 
-const port = process.env.PORT || 8081;
+const port = process.env.PORT || 8080;
 
 //Run database
 connectDB();
